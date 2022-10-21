@@ -1,15 +1,18 @@
-PROJECT TITLE: 01.07 Arithmetic Calculations / CalculationsV2.java
-PURPOSE OF PROJECT: Use concatenation to make the output of the program
-look more intuitive to the user.
-VERSION or DATE: September 10, 2022
+PROJECT TITLE: 01.09 Assignment / CalculationsV6.java
+PURPOSE OF PROJECT: The Calculations class performs addition, subtraction,
+multiplication, division, and modulus operations on integers and decimals.
+This is an updated version that enhances the user experience when reading
+the output.
+VERSION or DATE: October 20, 2022
 AUTHORS: Curt Wheeler
 **************************** P M R ************************************************
-<+s>: Concatination in Java is easy, and it is not much different from other similar
-languages.
+<+s>: Using double typed numbers is very intuitive and similar to using
+integer typed numbers.
 
-<-s>: I forgot to uncomment the "system.out.println();" statements, which resulted in
-a more difficult to read output.
+<-s>: I mixed up the modulus operator with the division operator on accident
+while typing.
 
 ***********************************************************************************
-In the future: I could use user input to perform the operations instead of using
-hard-coded values.
+In the future: I would like to allow user input which would allow users
+to see what the output would look like with different operations on the
+same number.
